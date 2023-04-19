@@ -1,3 +1,5 @@
+Go to [the project resources repository](https://github.com/TTK4145/Project-resources) to find more resources for doing the project. This information is not required for the project, and is therefore maintained separately.
+
 Elevator Project
 ================
 
