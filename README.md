@@ -1,4 +1,4 @@
-The Simulator can be found in this repository:[the project resources repository](https://github.com/TTK4145/Project-resources)
+The Simulator can be found in [the project resources repository](https://github.com/TTK4145/Project-resources)
 
 Elevator Project - Specification
 ================
