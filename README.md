@@ -1,6 +1,8 @@
+The Simulator can be found in [the project resources repository](https://github.com/TTK4145/Project-resources)
+
 Elevator Project - Specification
 ================
-The Simulator can be found in [the project resources repository](https://github.com/TTK4145/Project-resources)
+Distributed elevator system for controlling n-elevators.
 
 Create software for controlling `n` elevators working in parallel across `m` floors.
 
